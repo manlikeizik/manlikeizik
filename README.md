@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac  Eghiaruwa
 - 👀 I’m interested in Data
-<a href="https://manlikeizik.github.io/portfolio/" target="_blank" style="display: inline-block;">Visit my Web Portfolio</a>
+\n<a href="https://manlikeizik.github.io/portfolio/" target="_blank" style="display: inline-block;">Visit my Web Portfolio</a>
 
 <!---
 manlikeizik/manlikeizik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
